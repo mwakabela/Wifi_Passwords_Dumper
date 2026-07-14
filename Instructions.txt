@@ -1,0 +1,3 @@
+#How to run the script
+1. Open PowerShell as root
+2. Run this command powershell -ExecutionPolicy Bypass -File ".\wifi_password_dumper.ps1"
